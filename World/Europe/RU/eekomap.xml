@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns="http://www.gpxsee.org/map/1.4">
+	<name>ЕЭКО</name>
+	<url>https://ngw.fppd.cgkipd.ru/tile/56/$z/$x/$y.png</url>
+	<zoom min="3" max="14"/>
+	<copyright>© Единая электронная картографическая основа России</copyright>
+</map>
